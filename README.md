@@ -1,5 +1,5 @@
 # Bank-WebApplication
-A bank web application built using Java, Spring Boot, MySQL, Bootstrap which perfrom a operation like deposite, withdrawal and transfer the money to the other users.
+A bank web application built using Java, Spring Boot, MySQL, Bootstrap which perfrom a operation like deposite, withdrawal and transfer the money to the other users. <br>
 User's can see all the transaction that they done to the others or also can see recieve money from the other users.
 
 ![1 (1)](https://github.com/user-attachments/assets/467585ab-3ebe-4723-8cb1-4b78ec5c43b8)
