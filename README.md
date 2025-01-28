@@ -28,7 +28,7 @@ A secure and modern banking web application built with Spring Boot that provides
 
 1. Clone the repository:
    ```bash
-   git clone [repository-url]
+   git clone [[repository-url]](https://github.com/deepeshprajapati055/Bank-WebApplication/)
    ```
 
 2. Navigate to the project directory:
@@ -69,14 +69,6 @@ This application implements Spring Security for:
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Contact
-
-Project Link: [repository-url]
 
 ![1 (1)](https://github.com/user-attachments/assets/467585ab-3ebe-4723-8cb1-4b78ec5c43b8)
 ## 
