@@ -28,7 +28,7 @@ A secure and modern banking web application built with Spring Boot that provides
 
 1. Clone the repository:
    ```bash
-   git clone [[repository-url]](https://github.com/deepeshprajapati055/Bank-WebApplication/)
+   git clone https://github.com/deepeshprajapati055/Bank-WebApplication/
    ```
 
 2. Navigate to the project directory:
